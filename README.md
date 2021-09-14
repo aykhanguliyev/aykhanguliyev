@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aykhanguliyev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on with customers
+- 💞️ I’m looking to collaborate on with companies.
 - 📫 How to reach me  +994 51 383 61 59
 
 <!---
